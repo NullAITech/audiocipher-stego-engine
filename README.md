@@ -1,8 +1,8 @@
 # 🔒 AudioCipher Stego Engine
 
-[![CI](https://github.com/1nc0gn30/audiocipher-stego-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/1nc0gn30/audiocipher-stego-engine/actions)
+[![CI](https://github.com/NullAITech/audiocipher-stego-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/NullAITech/audiocipher-stego-engine/actions)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Zero Dependencies](https://img.shields.io/badge/dependencies-0%20runtime-success.svg)](https://github.com/1nc0gn30/audiocipher-stego-engine)
+[![Zero Dependencies](https://img.shields.io/badge/dependencies-0%20runtime-success.svg)](https://github.com/NullAITech/audiocipher-stego-engine)
 [![MCP Server](https://img.shields.io/badge/MCP-FastMCP%202024--11--05-blueviolet.svg)](https://modelcontextprotocol.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -27,7 +27,7 @@
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/1nc0gn30/audiocipher-stego-engine.git
+git clone https://github.com/NullAITech/audiocipher-stego-engine.git
 cd audiocipher-stego-engine
 
 # Install in editable mode
@@ -226,5 +226,5 @@ pytest -v
 
 ## 📜 License
 
-MIT License © 2026 1nc0gn30
+MIT License © 2026 NullAITech
 
